@@ -15,13 +15,7 @@ Features
 Requirements
 - Python 3.x
 
-## Usage
-
-Run the script from your terminal:
-
-```bash
-python main.py
-```
+Usage
 
 How it works:
 1. Enter the name (or part of the name) of the file you are looking for.
